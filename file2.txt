@@ -1,0 +1,2 @@
+ini adalah file 2
+menanmbahkan file2 dari feature/b commit ke 1
